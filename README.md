@@ -8,9 +8,9 @@
 
 ## the only steps you need to are to install your essential packages. (npm i) 
 
-## alt text would be included         
+## alt text would be included (![Alt text](<README_GENERATOR SCREENSHOT.png>))        
 
-## link: 
+## link: https://chaggar25.github.io/README_Generator/
 
 ## false
 
